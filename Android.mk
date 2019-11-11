@@ -25,7 +25,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),s2)
+ifeq ($(TARGET_DEVICE),rimo02a)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
