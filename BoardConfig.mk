@@ -46,7 +46,7 @@ ENABLE_SCHEDBOOST := true
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/smartron/msm8976
-TARGET_KERNEL_CONFIG := lineageos_rimo02a_dfconfig
+TARGET_KERNEL_CONFIG := lineageos_rimo02a_defconfig
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
